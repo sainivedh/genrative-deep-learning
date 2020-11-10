@@ -8,7 +8,7 @@ to the fally the same to the sense of the fatter the false and still the fatter 
 of the false of the same the falled for the same the last and some distinction of the fact, and something.
 -----------------------------------------------
 
-Sample Telugu Text
+Generated Sample Telugu Text
 
 "నీ చదువు చెడుతుంది."
 "ఈ స్థితిలో నా చదువంత ముఖ్యం కాదు."
