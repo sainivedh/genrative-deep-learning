@@ -1,4 +1,4 @@
-Text generated using lstm models
+Text generated using GRU models
 
 Generated sample English text:
 
